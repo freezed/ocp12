@@ -19,7 +19,7 @@ Les technologies qui à ce jours font l'objet de mon attention quotidienne font 
 
 +++
 
-Mon profil _Stack Overflow_ reflète d'ailleurs ces centres d'intérêts :
+Mon profil _Stack Overflow_ reflète d'ailleurs ces centres d'intérêts (ordre alphabétique) :
 
 @ul
 
@@ -134,7 +134,11 @@ Enfin pour y voir plus clair entre les tweets, la création de liste permet de r
 
 Enfin, pour clôturer cette partie sur les outils numériques, une tendance actuelle prends de l'ampleur : _les webinaires_. On trouve cette définition sur wikipedia :
 
++++
+
 > Webinaire est un mot-valise associant les mots web et séminaire, créé pour désigner toutes les formes de réunions interactives de type séminaire faites via Internet généralement dans un but de travail collaboratif ou d'enseignement à distance.
+
++++
 
 Y participer est un excellent moyen de découvrir/apprendre une technologie ou un outil d'actualité pour lesquels les spécialistes sont peut présent autour de chez soit.
 
@@ -154,7 +158,11 @@ Lire de la doc, des news, visionner des vidéos ou participer à des _webinaires
 
 Le concept de _co-working_ est à la mode et mis à toute les sauces… Dans cette jungle, j'ai choisi de fréquenter chaque semaine une communauté Lyonnaise (mais pas que) : _La Cordée_. On y croise 33% de télé-travailleurs, 33% d'indépendant et 33% de _gens bizarre_.
 
++++
+
 En plus de proposer un cadre de travail (table, chaise, intenet, imprimante, cuisine, douches, WC, etc.) on y rencontre des professionnels de l'IT mais aussi des gens que l'on aurait _jamais_ croisé dans une entreprise _classique_ (traducteur, _youtubeur_, psychologue, arbitre internationnal de ping-pong, etc.)
+
++++
 
 Ça tombe bien, c'est justement dans cette communauté de travail où sont organisés les _co-working_ étudiants d'_OpenClassrooms_, un super outil pour échanger entre étudiants d'horizons différant et aux expériences et compétences riches :
 
@@ -200,6 +208,8 @@ Mais aussi un meetup _non-Python_
 
 ![](img/meetup-abbeal.png)
 
++++
+
 Enfin, pour boucler la boucle et pour faire de nouvelles expériences, j'ai pris l'engagement de présenter ma 1ère conférence pour la communauté Python ce mois de janvier 2019 :
 
 +++
@@ -213,3 +223,9 @@ Enfin, pour boucler la boucle et pour faire de nouvelles expériences, j'ai pris
 La veille est une partie importante quand on pratique une activité professionnelle, le développement informatique n'y échappe pas et fait partit de ces activités qui nécessitent un investissement temporel important pour rester en phase avec le monde.
 
 Attention cependant à ne pas se faire cannibaliser par ces outils avec lesquels il peut-être parfois difficile de prendre conscience du temps qui passe.
+
+---
+
+### Merci pour votre attention
+
+# (-;
