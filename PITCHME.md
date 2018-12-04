@@ -205,6 +205,8 @@ J'ai pris le temps cette année de fréquenter les rendez-vous mensuels de la co
 
 ![](img/meetup-py-5-8.png)
 
++++
+
 Mais aussi un meetup _non-Python_
 
 +++
