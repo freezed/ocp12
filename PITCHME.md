@@ -116,11 +116,15 @@ Outil de mise en relation et d'information professionnel, il n'est pas spéciali
 
 Au cœur du réacteur! C'est **la** place numérique de l'actualité en directe. Attention au temps passé : le débit permanent de nouveauté peu dilapider les heures de travail d'une journée sans un minimum de discipline.
 
++++
+
 Hormis se tenir informer, on peut également prendre contact très facilement avec les utilisateurs, ainsi j'ai pu transmettre une remontée d'anomalie aux responsables du site www.markdowntopdf.com
 
 +++
 
 ![](img/tweet-hinge.jpg)
+
++++
 
 Enfin pour y voir plus clair entre les tweets, la création de liste permet de regrouper les publications. De plus j'utilise l'outil _TweetDeck_ permettant de suivre plusieurs flux agencés en colonne. Indispensable quand on utilise _twitter_ avec différant thèmes.
 
@@ -154,9 +158,20 @@ Lire de la doc, des news, visionner des vidéos ou participer à des _webinaires
 
 +++
 
-##### Une communaute de travail
+##### Une communauté de travail
 
-Le concept de _co-working_ est à la mode et mis à toute les sauces… Dans cette jungle, j'ai choisi de fréquenter chaque semaine une communauté Lyonnaise (mais pas que) : _La Cordée_. On y croise 33% de télé-travailleurs, 33% d'indépendant et 33% de _gens bizarre_.
+Le concept de _co-working_ est à la mode et mis à toute les sauces… Dans cette jungle, j'ai choisi de fréquenter chaque semaine une communauté Lyonnaise (mais pas que) : _La Cordée_.
+
+On y croise :
+
+
+@ul
+
+* 33% de télé-travailleurs
+* 33% d'indépendant
+* …et 33% de _gens bizarres_
+
+@ulend
 
 +++
 
@@ -209,6 +224,8 @@ Enfin, pour boucler la boucle et pour faire de nouvelles expériences, j'ai pris
 ## Conclusion
 
 La veille est une partie importante quand on pratique une activité professionnelle, le développement informatique n'y échappe pas et fait partit de ces activités qui nécessitent un investissement temporel important pour rester en phase avec le monde.
+
++++
 
 Attention cependant à ne pas se faire cannibaliser par ces outils avec lesquels il peut-être parfois difficile de prendre conscience du temps qui passe.
 
