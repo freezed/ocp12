@@ -124,14 +124,8 @@ Ce service propose de faciliter l'organisation de conférences en facilitant la 
 J'ai pris le temps cette année de fréquenter les rendez-vous mensuels de la communauté _Python_ de Lyon.
 
 ![](img/meetup-py.png)
-![](img/meetup-py-1.png)
-![](img/meetup-py-2.png)
-![](img/meetup-py-3.png)
-![](img/meetup-py-4.png)
-![](img/meetup-py-5.png)
-![](img/meetup-py-6.png)
-![](img/meetup-py-7.png)
-![](img/meetup-py-8.png)
+![](img/meetup-py-1-4.png)
+![](img/meetup-py-5-8.png)
 
 Mais aussi un meetup _non-Python_
 
